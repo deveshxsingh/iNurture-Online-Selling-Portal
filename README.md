@@ -12,6 +12,6 @@ CSS
 
 Javascript
 
-Servlets
+PHP
 
 MySql
